@@ -77,10 +77,57 @@ Then open `http://localhost:8080`.
 - About photography shows a fuller creative life without becoming a personal social feed
 
 
-## V3 note
+## Image treatment
 
 The About-page photography has been selectively stylized to better match the site's warm, editorial tone. The original extracted JPEGs are still included, and the live page now references the updated PNG versions for the main portrait and visible About-page gallery images.
 
-## V4 note
+## Testimonials
 
 The homepage leadership section now links to a dedicated Kind Words page containing the full roster of recommendations from the legacy portfolio. The recommendations page uses concise adapted summaries for a cleaner executive presentation while preserving each recommender's name and professional context.
+
+## Repository baseline
+
+This reconciled V5 build is the first complete GitHub baseline. It includes the stylized About imagery, the two published-book images, and the Kind Words testimonials showcase in one tracked version. Future changes should build from this baseline.
+
+## V6 note
+
+The Kind Words page now uses all 18 testimonials in the original wording supplied by Dan rather than adapted summaries. The About-page closing line is now “Experience sharpens the eye. Curiosity keeps it open.”
+
+## V7 note
+
+Added a dedicated Photography / Personal Work section to the About page. The section is intentionally separated from client Work so it reads as a personal creative practice and evidence of visual judgment—not as a photography service offering. Twelve supplied photographs are stored locally in `assets/images/photography/`.
+
+
+## V8 note
+
+Selected Work has been reorganized around the five projects chosen for the next portfolio build. The Salvation Army Christmas Animations case study now embeds four Vimeo films: Gus, Battle, Emma and Chloe. The Salvation Army Christmas campaign page is staged for incoming artwork and project details.
+
+
+## V9 note
+
+Work imagery for the Salvation Army Christmas Animations, UCHealth, Signs of Hope and GameStop case studies is now stored locally in `assets/images/work/`. Role is standardized as **Concept & Art Direction**. UCHealth now includes Enemy Territory and Love Story Vimeo embeds; GameStop includes Bunny Wii, Wii Black, Transformers, Dead Space and Gamestock. The Christmas Animation page pairs the supplied stills with the four Vimeo films.
+
+
+## V10 note
+
+Homepage hero metadata now sits directly below the 24-year positioning statement and is left-aligned. The temporary Selected Work build-status note has been removed.
+
+
+## V11 note
+
+The Salvation Army Christmas case study is now complete with the supplied hero, Santa thumbnail, Overhead thumbnail and Vimeo embeds for both films. The homepage Christmas project card now uses final supplied imagery. The GameStop hero image has also been replaced with the latest supplied asset.
+
+
+## V12 note
+
+Homepage project cards now use hero artwork rather than video thumbnails for UCHealth, Salvation Army Christmas Animations and Salvation Army Christmas. Across every video-based case study, the presentation is now: case-study hero first, then the Vimeo player itself. Redundant still/thumbnail images above individual video embeds have been removed.
+
+
+## V13 note
+
+UCHealth now uses the newly supplied public Dropbox hero image on both the homepage project card and the case-study hero. Two additional Signs of Hope executions—anti-trafficking hotline and forced-labor awareness—have been added to the case-study gallery as local assets.
+
+
+## V14 note
+
+Added more breathing room between the small section label and the primary headline in Creative Leadership, Writing & Teaching, and the homepage About Dan section. The main homepage hero spacing was intentionally left unchanged.

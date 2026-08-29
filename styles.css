@@ -394,3 +394,12 @@ main { padding-top: 72px; }
   *, *::before, *::after { transition-duration: .001ms !important; animation-duration: .001ms !important; animation-iteration-count: 1 !important; }
   .reveal { opacity: 1; transform: none; }
 }
+
+
+/* V15 — breathing room under editorial + contact section labels */
+.page-hero > .eyebrow { margin-bottom: clamp(22px, 2vw, 32px); }
+.contact > .shell > .eyebrow { margin-bottom: clamp(22px, 2vw, 32px); }
+
+/* V15 — the light book cover has no aspect-ratio wrapper, so height:100%
+   resolved against an indefinite parent and the image collapsed to 0px */
+.light-book .book-art img { height: auto; }
